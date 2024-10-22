@@ -85,13 +85,13 @@ Choose your cloud provider:
 - Which Cloud Provider to choose? Confused? Watch the video below and you should be good
 [Video link](https://youtu.be/K1U137j23p8)
 
-Here's the table with the certification type column added:
 
 | Cloud provider | Certification type | Certification | Tutorials |
 |----------------|-------------------|---------------|-----------|
 | AWS | Foundation<br>Associate | • AWS Certified Cloud Practitioner<br>• AWS Solutions Architect Associate | |
 | Azure | Foundation<br>Associate | • AZ-900 Azure Fundamentals<br>• AZ-104 Azure Administrator | [Playlist](https://www.youtube.com/playlist?list=PLl4APkPHzsUUOCWcjaXcH-WBVxCccZ4uO)|
 | GCP | Foundation<br>Associate | • Google Cloud Digital Leader<br>• Associate Cloud Engineer | [Playlist](https://www.youtube.com/playlist?list=PLl4APkPHzsUXvkDFARdrH2LMESVqeuH8W) |
+
 
 >Note: Got more questions about the Cloud/DevOps Certifications? Watch the video below:
 
