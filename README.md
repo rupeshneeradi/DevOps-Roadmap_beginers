@@ -77,11 +77,18 @@ Choose one:
 - OSI Model - In-depth
 - TCP/IP Protocol Suite
 - Internet Protocols ( HTTP, HTTPS, SSH, SMTP, ICMP, etc)
-- DNS and DHCP [Video Link]()
+- How to analyze network packets using tools such as Wireshark
+- DDOS attack and how to mitigate that
+- CIDR and Subnetting [Video Link](https://youtu.be/G1azmL5-eQI)
+- DNS and DHCP [Video Link](https://youtu.be/fDOoB4k4YSs)
 - Vertical V/s Horizontal Scaling
-- SSL/TLS and how it works : [Video Link]()
+- SSL/TLS, symmetric vs asymmetric encryption and how it works : [Video Link](https://youtu.be/njT5ECuwCTo)
 - Reverse Proxy V/s Forward Proxy V/s load balancer
-- Network Troubleshooting
+- Troubleshooting application slowness, latency, unavailability etc
+- RAID
+- NAS vs SAN storage
+- SQL vs NoSQL
+- DB Sharding, Caching etc
 
 ### Phase 3: Cloud Computing (2-3 months)
 Choose your cloud provider:
