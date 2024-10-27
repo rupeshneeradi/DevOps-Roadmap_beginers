@@ -27,7 +27,7 @@ This repository contains a structured learning path for beginners entering the D
 ## 📚 Learning Path
 
 
-![Roadmap](roadmap.gif)
+![Roadmap](roadmap_v1.gif)
 
 ### Phase 1: Foundation (2-3 months)
 #### Linux and Shell Scripting
