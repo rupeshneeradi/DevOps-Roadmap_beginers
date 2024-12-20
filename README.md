@@ -141,6 +141,7 @@ Checkout the free YouTube playlist 👉 [here](https://www.youtube.com/playlist?
 ├── Modules
 └── Cloud Provider Integration
 ```
+Checkout the free Terraform playlist [here](https://www.youtube.com/playlist?list=PLl4APkPHzsUUHlbhuq9V02n9AMLPySoEQ)
 
 #### 5. Monitoring & Logging
 - Prometheus & Grafana
